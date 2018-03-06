@@ -22,3 +22,40 @@ body {
     margin-right: auto;
     width: 50%;
 	}
+
+	a {
+
+	color: inherit;	
+	}
+
+	header	{
+		padding: 20px;
+		background-color: #777777
+	}
+
+	nav {
+		text-align: center;
+		font-style: italic;
+		margin-right: 10px;
+	}
+
+	img {
+	width: 100px; <!why isnt this working> 
+	}
+
+	footer	{
+		padding: 20px;
+		text-align: center;
+		background-color: #777777;
+
+	}
+
+	.aside1 {
+		float: right;
+	}
+
+	.aside2 {
+		float: left;
+	}
+
+
